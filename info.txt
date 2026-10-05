@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 Start leaning the git 
 
 - git I was complete till the 1:12:33 
 
+=======
+bro like to say onething!
+>>>>>>> Stashed changes
