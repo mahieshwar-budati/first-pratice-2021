@@ -17,10 +17,12 @@ A full-stack web application replicating core features of Google Keep. Built wit
 
 ## Project Structure
 
-```text
 learn git/
 ├── app.py                 # Flask server & REST API routes
 ├── templates/
 │   └── index.html         # Tailwind CSS frontend & JavaScript logic
 ├── .venv/                 # Python virtual environment
 └── README.md              # Project documentation
+=======
+# first-pratice
+This is the project from start stag of the learning the git and github day
